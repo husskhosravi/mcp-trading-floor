@@ -349,4 +349,4 @@ mcp-trading-floor/
 
 ---
 
-*Built following Ed Donner's agentic AI engineering course. The architecture and trading-floor design are from the course; the MCP SDK v2 compatibility pins, the removal of the silent price fallback, trade-quantity validation, sequential scheduling and this write-up are mine. Released under the MIT licence, keeping the original copyright notice — see [`LICENSE`](LICENSE).*
+*Built following Ed Donner's agentic AI engineering course. The architecture and trading-floor design are from the course; the MCP SDK v2 compatibility pins, the removal of the silent price fallback, trade-quantity validation, sequential scheduling and this write-up are mine.*
