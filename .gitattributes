@@ -1,0 +1,7 @@
+# Normalise line endings so commits from Windows don't show every line as changed
+* text=auto eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.gif binary
